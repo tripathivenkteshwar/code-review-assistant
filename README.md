@@ -1,4 +1,4 @@
-# Code Review Assistant 🪄
+# Code Review AI Assistant 🪄
 
 A lightweight, visually polished, single-page web application that provides AI-powered code reviews. It uses Google's Gemini API (with a built-in local simulation fallback) to analyze code snippets, highlight positive aspects, and suggest actionable improvements with side-by-side diffs.
 
